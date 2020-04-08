@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Dice</string>
-    <string name="button_text">Roll</string>
+    <string name="button_text">Rolar</string>
     <string name="casino_logo" />
     <string name="bottom_dice_image" />
     <string name="top_dice_image" />
